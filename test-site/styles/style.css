@@ -1,0 +1,38 @@
+p{
+    color: rgb(87, 69, 10);
+    line-height: 2;
+    letter-spacing: 1px;
+}
+ul{
+    color: rgb(87, 69, 10);
+}
+h1{
+    color: rgb(211, 71, 181);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+h2{
+    color: rgb(211, 71, 181);
+    font-size: 34px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+html{
+    font-size: 25px;
+    font-family: 'Recursive', sans-serif;
+    background-color: #376d8f;
+    text-align: center;
+    text-shadow: 2px 1px 1px black;
+}
+body{
+    width: 1025px;
+    margin: 0 auto;
+    background-color: #5590b5;
+    padding: 0 20px 20px 20px;
+    border: 20px solid black;
+}
+img{
+    display: block;
+    width: 1025px;
+}
